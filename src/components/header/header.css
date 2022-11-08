@@ -1,5 +1,5 @@
 header {
-    border: 2px red solid;
+    /* border: 2px red solid; */
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
@@ -9,7 +9,7 @@ header {
 .header__container {
     
     text-align: center;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 100%;
     position: relative;
     
@@ -45,7 +45,7 @@ header {
 /* ============ ME ===============*/
 
 .me {
-    border: 2px red solid;
+    /* border: 2px red solid; */
     flex-basis: 0;
     flex-grow: 999;
     background: linear-gradient( var(--color-bg-primary), transparent );
@@ -58,6 +58,12 @@ header {
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
+
+}
+
+.photo{
+   
+    border-radius: 10px;
 
 }
 

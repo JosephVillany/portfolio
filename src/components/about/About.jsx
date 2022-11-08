@@ -36,7 +36,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Mi nombre es Joseph Villany. Me apasiona la tecnología y por en
+          Hola mi nombre es Joseph Villany.  Soy una persona que disfruta la tecnología y mas lo 
+          relacionado con la programación, ya que siento que desde allí puedo crear y brindar soluciones 
+          tecnológicas a muchas personas desde el desarrollo web. 
           </p>
           <a href="#contact" className="btn btn-primary">Contactame!</a>
         </div>

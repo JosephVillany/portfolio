@@ -1,10 +1,10 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
+import IMG1 from "../../assets/portfolio1.png";
+import IMG2 from "../../assets/portfolio2.png";
+import IMG3 from "../../assets/portfolio3.png";
+/* import IMG4 from "../../assets/portfolio4.jpg";
+import IMG5 from "../../assets/portfolio5.png"; */
 
 
 const data = [
@@ -25,10 +25,10 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'API POKEMON',
-    github: 'https://github.com/JosephVillany/e-comerce',
-    demo: 'https://e-comerce-puce.vercel.app/'
-  },
+    title: 'API GitHub',
+    github: 'https://github.com/JosephVillany/app-github',
+    demo: 'https://app-github-phi.vercel.app/'
+  }/* ,
   {
     id: 4,
     image: IMG4,
@@ -42,7 +42,7 @@ const data = [
     title: 'TODO',
     github: 'https://github.com/JosephVillany/e-comerce',
     demo: 'https://e-comerce-puce.vercel.app/'
-  }
+  } */
 ]
 
 const Portfolio = () => {
