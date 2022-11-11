@@ -46,11 +46,8 @@ header {
 
 .me {
     /* border: 2px red solid; */
-    flex-basis: 0;
-    flex-grow: 999;
     background: linear-gradient( var(--color-bg-primary), transparent );
     width: 22rem;
-    display: flex;
     height: 30rem; 
     position: absolute;
     left: calc(50% - 11rem);
